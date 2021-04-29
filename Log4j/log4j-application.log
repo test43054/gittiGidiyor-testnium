@@ -1,0 +1,55 @@
+2021-04-29 15:34:22 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:34:38 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:34:38 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:34:42 INFO  Log4j:19 - Login Başarılı
+2021-04-29 15:34:49 INFO  Log4j:19 - arama başarılı
+2021-04-29 15:34:51 INFO  Log4j:19 - sayfa 2ye geçiş başarılı
+2021-04-29 15:34:54 INFO  Log4j:19 - Random ürün seçildi
+2021-04-29 15:34:54 INFO  Log4j:19 - ürünün sayfadaki fiyatı3.749,00 TL
+2021-04-29 15:34:54 INFO  Log4j:19 - Sepete Eklendi
+2021-04-29 15:34:55 INFO  Log4j:19 - Sepete Gidildi
+2021-04-29 15:34:55 INFO  Log4j:19 - ürünün sepetteki fiyatı
+2021-04-29 15:35:05 INFO  Log4j:14 - Test is Ending...
+2021-04-29 15:37:15 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:37:28 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:37:29 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:37:31 INFO  Log4j:14 - Test is Ending...
+2021-04-29 15:38:04 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:38:18 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:38:18 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:38:21 INFO  Log4j:14 - Test is Ending...
+2021-04-29 15:38:30 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:38:45 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:38:45 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:38:48 INFO  Log4j:19 - Login Başarılı
+2021-04-29 15:38:57 INFO  Log4j:19 - arama başarılı
+2021-04-29 15:39:00 INFO  Log4j:19 - sayfa 2ye geçiş başarılı
+2021-04-29 15:39:03 INFO  Log4j:19 - Random ürün seçildi
+2021-04-29 15:39:03 INFO  Log4j:19 - ürünün sayfadaki fiyatı18.449,01 TL
+2021-04-29 15:39:04 INFO  Log4j:19 - Sepete Eklendi
+2021-04-29 15:39:07 INFO  Log4j:19 - Sepete Gidildi
+2021-04-29 15:39:07 INFO  Log4j:19 - ürünün sepetteki fiyatı18.449,01 TL
+2021-04-29 15:39:07 INFO  Log4j:19 - Adet doğru(2)
+2021-04-29 15:39:07 INFO  Log4j:19 - sepetten silindi
+2021-04-29 15:39:07 INFO  Log4j:14 - Test is Ending...
+2021-04-29 15:41:41 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:41:57 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:41:58 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:42:02 INFO  Log4j:19 - Login Başarılı
+2021-04-29 15:42:08 INFO  Log4j:19 - arama başarılı
+2021-04-29 15:42:11 INFO  Log4j:19 - sayfa 2ye geçiş başarılı
+2021-04-29 15:42:13 INFO  Log4j:14 - Test is Ending...
+2021-04-29 15:42:34 INFO  Log4j:9 - Test is Starting...
+2021-04-29 15:42:48 INFO  Log4j:19 - Opening Page : https://www.gittigidiyor.com/
+2021-04-29 15:42:49 INFO  Log4j:19 - Email :mustafa.oral@outlook.com.tr
+2021-04-29 15:42:52 INFO  Log4j:19 - Login Başarılı
+2021-04-29 15:43:01 INFO  Log4j:19 - arama başarılı
+2021-04-29 15:43:03 INFO  Log4j:19 - sayfa 2ye geçiş başarılı
+2021-04-29 15:43:07 INFO  Log4j:19 - Random ürün seçildi
+2021-04-29 15:43:07 INFO  Log4j:19 - ürünün sayfadaki fiyatı3.799,00 TL
+2021-04-29 15:43:08 INFO  Log4j:19 - Sepete Eklendi
+2021-04-29 15:43:10 INFO  Log4j:19 - Sepete Gidildi
+2021-04-29 15:43:11 INFO  Log4j:19 - ürünün sepetteki fiyatı3.799,00 TL
+2021-04-29 15:43:11 INFO  Log4j:19 - Adet doğru(2)
+2021-04-29 15:43:11 INFO  Log4j:19 - sepetten silindi
+2021-04-29 15:43:11 INFO  Log4j:14 - Test is Ending...
